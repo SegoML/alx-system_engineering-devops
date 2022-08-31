@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep ^d /tmp/iamafile
+file /tmp/iamafile

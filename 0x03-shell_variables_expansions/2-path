@@ -1,2 +1,2 @@
 #!/bin/bash
-PATHI-$ PATH:/action
+echo "hello $USER"
